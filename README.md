@@ -38,6 +38,7 @@ numpy.singularize('phenomena') #returns 'phenomenon'
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 ![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
 ![alt_cat](https://www.pngitem.com/pimgs/m/189-1892650_husky-puppy-png-transparent-siberian-husky-png-png.png)
+![alt_husky](https://previews.123rf.com/images/belckatasamaya/belckatasamaya1808/belckatasamaya180800001/105974128-winter-husky-dog-with-a-funny-face-blue-eyes-and-big-nose.jpg)
 
 
 ##Contributing
