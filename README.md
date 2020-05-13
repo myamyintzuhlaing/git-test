@@ -37,6 +37,7 @@ numpy.singularize('phenomena') #returns 'phenomenon'
 
 ![alt text](https://www.stellaandchewys.com/wp-content/uploads/maplechristmas.jpg)
 ![alt_sloth](https://static01.nyt.com/images/2014/01/28/science/28SLOT_SPAN/28SLOT-jumbo.jpg)
+![alt_cat](https://png.pngtree.com/element_our/20190603/ourmid/pngtree-simulation-animal-husky-dog-png-cute-image_1442301.jpg)
 
 
 ##Contributing
