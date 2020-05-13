@@ -40,6 +40,7 @@ numpy.singularize('phenomena') #returns 'phenomenon'
 ![alt_cat](https://www.pngitem.com/pimgs/m/189-1892650_husky-puppy-png-transparent-siberian-husky-png-png.png)
 ![alt_husky](https://previews.123rf.com/images/belckatasamaya/belckatasamaya1808/belckatasamaya180800001/105974128-winter-husky-dog-with-a-funny-face-blue-eyes-and-big-nose.jpg)
 ![alt_img](https://res.cloudinary.com/hito/image/upload/v1583313817/2552907244770286.jpg)
+![alt_ss](https://www.dropbox.com/s/kg28j1quzkth44m/apr-319.png?dl=0)
 
 
 ##Contributing
